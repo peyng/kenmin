@@ -61,7 +61,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://peyng.github.io/maple/20201106_020.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://peyng.github.io/kenmin/20201106_020.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
   
@@ -164,12 +164,12 @@ a.p:hover span {
 <a href="kenmin.png" data-lightbox="abc"><img src="kenmin.png" alt="サンプル画像" width="800" /></a>
 
 <h3>Google Maps Link</h3>
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d72409.9596524236!2d139.8565642704139!3d37.06928327979658!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601f8c563415b02f%3A0x3f7cd66be122d632!2z5rex5bGx5rmW77yI44OA44Og77yJ!5e0!3m2!1sja!2sjp!4v1604365836998!5m2!1sja!2sjp" width="800" height="600" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d210637.36471359813!2d139.8386776792799!3d36.73420655038743!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb8009796e39c706f!2z55yM5rCR44Gu5qOu566h55CG5LqL5YuZ5omA!5e0!3m2!1sja!2sjp!4v1604664820266!5m2!1sja!2sjp" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
        
 <br><br>
  
 <p> 
-<a href="http://www.pref.tochigi.lg.jp/g57/index.html" target="_blank" class="p">深山ダムHPリンク
+<a href="http://xn--u9j241o17birq.tochigi.jp/index.php" target="_blank" class="p">県民の森HPリンク
 
        
 <p>&#160;</p><p>&#160;</p>
