@@ -118,8 +118,8 @@ a.p:hover span {
 <a href="20201106_013.JPG" data-lightbox="abc"><img src="20201106_013.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20201106_014.JPG" data-lightbox="abc"><img src="20201106_014.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20201106_015.JPG" data-lightbox="abc"><img src="20201106_015.JPG" alt="サンプル画像" width="200" /></a>
-<a href="20201106_016.JPG" data-lightbox="abc"><img src="20201106_016.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20201106_017.JPG" data-lightbox="abc"><img src="20201106_017.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20201106_016.JPG" data-lightbox="abc"><img src="20201106_016.JPG" alt="サンプル画像" width="800" /></a>
 <a href="20201106_018.JPG" data-lightbox="abc"><img src="20201106_018.JPG" alt="サンプル画像" width="800" /></a>
 <a href="20201106_019.JPG" data-lightbox="abc"><img src="20201106_019.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20201106_020.JPG" data-lightbox="abc"><img src="20201106_020.JPG" alt="サンプル画像" width="200" /></a>
@@ -127,9 +127,12 @@ a.p:hover span {
 <a href="20201106_022.JPG" data-lightbox="abc"><img src="20201106_022.JPG" alt="サンプル画像" width="200" /></a>
 <br>
 <h3>紅葉見ながらお弁当のご夫婦</h3>
-<a href="20201106_023.JPG" data-lightbox="abc"><img src="20201106_023.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20201106_023.JPG" data-lightbox="abc"><img src="20201106_023.JPG" alt="サンプル画像" width="800" /></a>
 <br>
-<h3>森林展示館の展示品、手作り感が感じられる温かみのあるものばかり。野生生物の剥製も多数。皇室の御来館もあったとのことです。</h3>
+<h3>森林展示館</h3>
+<a href="20201106_055.JPG" data-lightbox="abc"><img src="20201106_055.JPG" alt="サンプル画像" width="800" /></a>
+<br>
+<h3>森林展示館の展示品。<br>手作り感が感じられる温かみのあるものばかり。<br>野生生物の剥製も多数。<br>皇室の御来館もあったとのことです。</h3>
 <a href="20201106_024.JPG" data-lightbox="abc"><img src="20201106_024.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20201106_025.JPG" data-lightbox="abc"><img src="20201106_025.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20201106_026.JPG" data-lightbox="abc"><img src="20201106_026.JPG" alt="サンプル画像" width="200" /></a>
@@ -161,9 +164,7 @@ a.p:hover span {
 <a href="20201106_052.JPG" data-lightbox="abc"><img src="20201106_052.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20201106_053.JPG" data-lightbox="abc"><img src="20201106_053.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20201106_054.JPG" data-lightbox="abc"><img src="20201106_054.JPG" alt="サンプル画像" width="200" /></a>
-<br>
-<h3>森林展示館</h3>
-<a href="20201106_055.JPG" data-lightbox="abc"><img src="20201106_055.JPG" alt="サンプル画像" width="800" /></a>
+
 
 <br><br>
 <h3>県民の森は宇都宮から、車で１時間弱。宇都宮市の隣、矢板市になります。</h3>
