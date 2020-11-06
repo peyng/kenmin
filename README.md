@@ -125,7 +125,11 @@ a.p:hover span {
 <a href="20201106_020.JPG" data-lightbox="abc"><img src="20201106_020.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20201106_021.JPG" data-lightbox="abc"><img src="20201106_021.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20201106_022.JPG" data-lightbox="abc"><img src="20201106_022.JPG" alt="サンプル画像" width="200" /></a>
+<br>
+<h3>紅葉見ながらお弁当のご夫婦</h3>
 <a href="20201106_023.JPG" data-lightbox="abc"><img src="20201106_023.JPG" alt="サンプル画像" width="200" /></a>
+<br>
+<h3>森林展示館の展示品、手作り感が感じられる温かみのあるものばかり。野生生物の剥製も多数。皇室の御来館もあったとのことです。</h3>
 <a href="20201106_024.JPG" data-lightbox="abc"><img src="20201106_024.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20201106_025.JPG" data-lightbox="abc"><img src="20201106_025.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20201106_026.JPG" data-lightbox="abc"><img src="20201106_026.JPG" alt="サンプル画像" width="200" /></a>
