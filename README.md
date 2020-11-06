@@ -157,7 +157,9 @@ a.p:hover span {
 <a href="20201106_052.JPG" data-lightbox="abc"><img src="20201106_052.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20201106_053.JPG" data-lightbox="abc"><img src="20201106_053.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20201106_054.JPG" data-lightbox="abc"><img src="20201106_054.JPG" alt="サンプル画像" width="200" /></a>
-<a href="20201106_055.JPG" data-lightbox="abc"><img src="20201106_055.JPG" alt="サンプル画像" width="200" /></a>
+<br>
+<h3>森林展示館</h3>
+<a href="20201106_055.JPG" data-lightbox="abc"><img src="20201106_055.JPG" alt="サンプル画像" width="800" /></a>
 
 <br><br>
 <h3>県民の森は宇都宮から、車で１時間弱。宇都宮市の隣、矢板市になります。</h3>
