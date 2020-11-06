@@ -107,20 +107,20 @@ a.p:hover span {
 <a href="20201106_002.JPG" data-lightbox="abc"><img src="20201106_002.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20201106_003.JPG" data-lightbox="abc"><img src="20201106_003.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20201106_004.JPG" data-lightbox="abc"><img src="20201106_004.JPG" alt="サンプル画像" width="200" /></a>
-<a href="20201106_005.JPG" data-lightbox="abc"><img src="20201106_005.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20201106_005.JPG" data-lightbox="abc"><img src="20201106_005.JPG" alt="サンプル画像" width="８00" /></a>
 <a href="20201106_006.JPG" data-lightbox="abc"><img src="20201106_006.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20201106_007.JPG" data-lightbox="abc"><img src="20201106_007.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20201106_008.JPG" data-lightbox="abc"><img src="20201106_008.JPG" alt="サンプル画像" width="200" /></a>
-<a href="20201106_009.JPG" data-lightbox="abc"><img src="20201106_009.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20201106_009.JPG" data-lightbox="abc"><img src="20201106_009.JPG" alt="サンプル画像" width="800" /></a>
 <a href="20201106_010.JPG" data-lightbox="abc"><img src="20201106_010.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20201106_011.JPG" data-lightbox="abc"><img src="20201106_011.JPG" alt="サンプル画像" width="200" /></a>
-<a href="20201106_012.JPG" data-lightbox="abc"><img src="20201106_012.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20201106_012.JPG" data-lightbox="abc"><img src="20201106_012.JPG" alt="サンプル画像" width="800" /></a>
 <a href="20201106_013.JPG" data-lightbox="abc"><img src="20201106_013.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20201106_014.JPG" data-lightbox="abc"><img src="20201106_014.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20201106_015.JPG" data-lightbox="abc"><img src="20201106_015.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20201106_016.JPG" data-lightbox="abc"><img src="20201106_016.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20201106_017.JPG" data-lightbox="abc"><img src="20201106_017.JPG" alt="サンプル画像" width="200" /></a>
-<a href="20201106_018.JPG" data-lightbox="abc"><img src="20201106_018.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20201106_018.JPG" data-lightbox="abc"><img src="20201106_018.JPG" alt="サンプル画像" width="800" /></a>
 <a href="20201106_019.JPG" data-lightbox="abc"><img src="20201106_019.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20201106_020.JPG" data-lightbox="abc"><img src="20201106_020.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20201106_021.JPG" data-lightbox="abc"><img src="20201106_021.JPG" alt="サンプル画像" width="200" /></a>
@@ -164,7 +164,7 @@ a.p:hover span {
 <a href="kenmin.png" data-lightbox="abc"><img src="kenmin.png" alt="サンプル画像" width="800" /></a>
 
 <h3>Google Maps Link</h3>
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d210637.36471359813!2d139.8386776792799!3d36.73420655038743!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb8009796e39c706f!2z55yM5rCR44Gu5qOu566h55CG5LqL5YuZ5omA!5e0!3m2!1sja!2sjp!4v1604664820266!5m2!1sja!2sjp" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d210637.36471359813!2d139.8386776792799!3d36.73420655038743!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb8009796e39c706f!2z55yM5rCR44Gu5qOu566h55CG5LqL5YuZ5omA!5e0!3m2!1sja!2sjp!4v1604664820266!5m2!1sja!2sjp" width="800" height="600" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
        
 <br><br>
  
