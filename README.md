@@ -199,4 +199,4 @@ a.p:hover span {
 
 <!-- フッタ -->
  <footer>
-	<span class="snow">Copyright 2020/11/3 Sajyan</span>
+	<span class="snow">Copyright 2020/11/7 Sajyan</span>
